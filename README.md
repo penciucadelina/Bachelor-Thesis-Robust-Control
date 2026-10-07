@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## 📌 Overview
-This repository contains the complete MATLAB/Simulink implementation for my **BSc Thesis (Grade: 10/10, Valedictorian)** in Automation and Computer Science at the Technical University of Cluj-Napoca.
+This repository contains the complete MATLAB/Simulink implementation for my **BSc Thesis (Grade: 10/10)** in Automation and Computer Science at the Technical University of Cluj-Napoca.
 
 The project implements a **data-driven control algorithm** that identifies state feedback linearization functions (coordinate transformations, decoupling matrices) directly from input-state data, bypassing the need for explicit analytical models. It specifically addresses the challenges of **noisy experimental data** by employing advanced numerical techniques and signal processing.
 
