@@ -9,7 +9,7 @@ This repository contains the complete MATLAB/Simulink implementation for my **BS
 
 The project implements a **data-driven control algorithm** that identifies state feedback linearization functions (coordinate transformations, decoupling matrices) directly from input-state data, bypassing the need for explicit analytical models. It specifically addresses the challenges of **noisy experimental data** by employing advanced numerical techniques and signal processing.
 
-📄 **Full Thesis Document:** [Read the PDF here](Licenta_Penciuc_Adelina_Final.pdf) *(Asigură-te că link-ul corespunde cu numele real al PDF-ului tău)*
+📄 **Full Thesis Document:** [Read the PDF here](Licenta_Penciuc_Adelina_Final.pdf) 
 
 ## 🚀 Key Features & Algorithmic Implementation
 *   **Data-Driven Identification:** Reconstructs the required nonlinear control functions using predefined dictionaries and algebraic data matrices.
